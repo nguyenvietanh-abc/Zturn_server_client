@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/sources/Server.cpp.o CMakeFiles/server.dir/sources/main_server.cpp.o -o server  -lpthread
